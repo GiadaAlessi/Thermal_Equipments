@@ -5,7 +5,7 @@ This project analyzes a **cascade refrigeration cycle** designed for a cold stor
 ## 📄 Report
 For a detailed explanation of the methodology, results, and conclusions, please refer to the full report:
 
-➡️ [Cascade Refrigeration Cycle Report - Giada Alessi](https://github.com/GiadaAlessi/Thermal_Equipments/blob/main/Exercise_01/CascadeProblemReport_AlessiGiada.pdf)
+➡️ [Cascade Refrigeration Cycle Report - Giada Alessi](https://github.com/GiadaAlessi/Thermal_Equipments/blob/main/Exercise_02/CascadeProblemReport_AlessiGiada.pdf)
 
 ## 🔍 Project Overview
 The project explores:
